@@ -1,0 +1,31 @@
+.footer {
+  border-top: 1px solid #edeff2;
+  background-color: #fff;
+  color: #142032;
+  margin-top: 30px;
+}
+
+.container {
+  background-color: #fff;
+  color: #142032;
+}
+
+.listTitle {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 19px;
+  text-transform: uppercase;
+}
+
+.container a {
+  color: #142032;
+}
+
+.paymentMatrixItem {
+  padding-right: 20px;
+}
+
+.textInformation {
+  width: 90%;
+  padding-left: 0px;
+}

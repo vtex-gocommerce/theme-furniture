@@ -1,0 +1,13 @@
+.container {
+  padding-bottom: 15px;
+}
+
+.title {
+  font-weight: 700;
+  color: #142032;
+  padding: 2rem 0;
+}
+
+.container [class*='slick-dots'] {
+  display: none;
+}
